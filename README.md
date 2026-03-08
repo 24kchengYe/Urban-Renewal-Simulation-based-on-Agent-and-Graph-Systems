@@ -1,3 +1,4 @@
+\![Visitors](https://visitor-badge.laobi.icu/badge?page_id=24kchengYe.Urban-Renewal-Simulation-based-on-Agent-and-Graph-Systems)
 # GPGLB: Government and Resident Participation Graph Lingual Network for Buildings
 
 ## 政府和居民参与的建筑图语言网络模型
